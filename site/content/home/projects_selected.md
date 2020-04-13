@@ -1,8 +1,8 @@
 +++
-date = "2017-03-29T00:00:00"
+date = "2020-04-12T00:00:00"
 draft = false
 
-title = "My Selected Projects"
+title = "Projects"
 subtitle = ""
 widget = "projects"
 
@@ -18,21 +18,8 @@ view = 1
 # Add or remove as many filters (`[[filter]]` instances) as you like.
 # Use "*" tag to show all projects or an existing tag prefixed with "." to filter by specific tag.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
-[[filter]]
-  name = "All"
-  tag = "*"
-  
-[[filter]]
-  name = "iOS app"
-  tag = ".iosapp"
-
-[[filter]]
-  name = "Framework"
-  tag = ".framework"
-
-[[filter]]
-  name = "Web"
-  tag = ".web"
+#[[filter]]
+#  name = "All"
+#  tag = "*"
 
 +++
-

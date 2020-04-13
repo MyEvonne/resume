@@ -1,8 +1,8 @@
 +++
-date = "2017-03-29T00:00:00"
+date = "2020-04-12T00:00:00"
 draft = false
 
-title = "我的精选项目"
+title = "我的项目"
 subtitle = ""
 widget = "projects"
 
@@ -18,21 +18,8 @@ view = 1
 # Add or remove as many filters (`[[filter]]` instances) as you like.
 # Use "*" tag to show all projects or an existing tag prefixed with "." to filter by specific tag.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
-[[filter]]
-  name = "全部"
-  tag = "*"
-  
-[[filter]]
-  name = "iOS 应用"
-  tag = ".iosapp"
-
-[[filter]]
-  name = "框架"
-  tag = ".framework"
-
-[[filter]]
-  name = "网站"
-  tag = ".web"
+#[[filter]]
+#  name = "全部"
+#  tag = "*"
 
 +++
-

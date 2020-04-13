@@ -1,5 +1,5 @@
-baseurl = "https://onev.cat"
-copyright = "&copy; 2017 Wei Wang"
+baseurl = ""
+copyright = "&copy; 2020 Richard Sheng"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -18,14 +18,14 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  organization = "OneV's Den (@onevcat)"
-  organization_url = "https://onevcat.com"
+  organization = "Richard Sheng"
+  organization_url = ""
   avatar = "portrait.jpg"
-  email = "onev@onevcat.com"
+  email = "rnash@ymail.com"
   telegram = ""
 
   # Enable Keybase in Contact section by entering your keybase.io username.
-  keybase = "onevcat"
+  # keybase = ""
 
   # Date format (refer to Go's date format: http://flippinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -63,22 +63,17 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:onev@onevcat.com"
-
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/onevcat"
+    link = "mailto:rnash@ymail.com"
 
   [[params.social]]
     icon = "weibo"
     icon_pack = "fa"
-    link = "//weibo.com/onevcat"
+    link = "https://weibo.com/richynash"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/onevcat"
+    link = "https://github.com/MyEvonne"
 
   [[menu.main]]
     name = "Home"
@@ -91,34 +86,24 @@ defaultContentLanguageInSubdir = false
     weight = 2
 
   [[menu.main]]
-    name = "Publications"
-    url = "#publications_selected"
-    weight = 3
-
-  [[menu.main]]
-    name = "Talks"
-    url = "#talks"
-    weight = 4
-
-  [[menu.main]]
     name = "Experience"
     url = "#experience"
-    weight = 5
+    weight = 3
 
   [[menu.main]]
     name = "Contact"
     url = "#contact"
-    weight = 6
+    weight = 4
 
   [[menu.main]]
     name = "中文"
     url = "/zh"
-    weight = 7
+    weight = 5
 
   [[languages.zh.menu.main]]
-  name = "主页"
-  url = "#about"
-  weight = 1
+    name = "主页"
+    url = "#about"
+    weight = 1
 
   [[languages.zh.menu.main]]
     name = "项目"
@@ -126,42 +111,32 @@ defaultContentLanguageInSubdir = false
     weight = 2
 
   [[languages.zh.menu.main]]
-    name = "出版"
-    url = "#publications_selected"
-    weight = 3
-
-  [[languages.zh.menu.main]]
-    name = "演讲"
-    url = "#talks"
-    weight = 4
-
-  [[languages.zh.menu.main]]
     name = "经历"
     url = "#experience"
-    weight = 5
+    weight = 3
 
   [[languages.zh.menu.main]]
     name = "联系"
     url = "#contact"
-    weight = 6
-  
+    weight = 4
+
   [[languages.zh.menu.main]]
     name = "English"
     url = "../"
-    weight = 7
+    weight = 5
 
 [languages.en]
   languageCode = "en-us"
-  title = "Resume - Wei Wang"
-  name = "Wei Wang"
+  title = "Resume - Sheng Kainan"
+  name = "Sheng Kainan"
   role = "iOS Developer"
-  address = "JR Shinjuku Miraina Tower 23F, 4-1-6 Shinjuku, Shinjuku-ku, Tokyo, 160-0022, Japan"
+  address = "Shanghai, China"
   office_hours = "Please send an email for appointment"
 
 [languages.zh]
   languageCode = "zh"
-  title = "简历 - 王巍"
-  name = "王 巍"
+  title = "简历 - 盛开南"
+  name = "盛 开南"
   role = "iOS 开发者"
-  address = "日本東京都新宿区新宿 4-1-6　JR 新宿ミライナタワー 23 階，160-0022，03-4316-2000"
+  address = "中国上海"
   office_hours = "预约会面请先邮件联系"

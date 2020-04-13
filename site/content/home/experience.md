@@ -14,24 +14,32 @@ weight = 60
 
 +++
 
-### Oct. 2014 ~ now
+### Apr.2018 ~ Dec.2019
 
-Senior Software Engineer, Dev Center, [LINE Corp](https://line.me), Tokyo, Japan
+[Square Valley](https://18birdies.com/), Senior iOS Software Engineer (Shanghai, China)
 
-- iOS application/framework development
-- Developing team tech leader
-- Swift evangelist
+- 18Birdies iOS application/framework development
+- "Tee Time Booking" Module design and development
 
-### Oct. 2012 ~ Sep. 2014
+### Nov.2015 ~ Apr.2018
 
-Unity Engineer/Unity Team Leader, [Kayac Inc.](https://www.kayac.com/en), Yokohama, Japan
+[Anjuke .Inc](https://www.anjuke.com/), Senior iOS Software Engineer (Shanghai, China)
 
-- Unity game development & optimization
-- New employee skill training & judgement
+- Development and iteration of Anjuke broker iOS App
+- Development, publishing and iteration of Jikejia iOS App
+- Encapsulate network framework based on AFNetworking for iOS team
+- Using router component in Jikejia project, and introduce router to other project
+- Fulfill modularization in iOS team
 
-### Mar. 2011 ~ Jul. 2012
+### June 2012 ~ Oct.2015
 
-Software Engineer, Red Infinity, Beijing, China
+[KKTV](http://www.kktv5.com/), iOS Software Engineer (Hangzhou, China)
 
-- Employee of startup company
-- iOS game development & brand management 
+- Participate development of KKTV iOS App As a startup employee
+
+### Jan.2010 ~ June 2012
+
+[ArcSoft](https://www.arcsoft.com.cn/), QA Engineer (Hangzhou, China)
+
+- Responsible for image processing algorithm testing.
+- Designing test cases, executing tests, compiling test reports, and providing test results.

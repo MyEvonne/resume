@@ -29,7 +29,7 @@
 # About widget
 
 - id: interests
-  translation: Interests
+  translation: Specialty
 
 - id: education
   translation: Education
