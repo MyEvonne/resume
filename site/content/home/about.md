@@ -28,5 +28,5 @@ Also actively participate in the design of back-end interfaces, cooperate with b
 Proficiency in using of collaborative work tools such as GIT, to collaborate with teammates to efficiently complete the development work and self-test.  
 Firm knowledge about App Store submitting and publishing procedure.
 
-In his spare time, Sheng also loves sports, and traveling.  
+In his spare time, Sheng also loves sports, cooking, and traveling.  
 His is always open to new things, and constantly learning from them.
