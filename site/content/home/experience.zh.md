@@ -23,7 +23,7 @@ weight = 60
 
 ### 2015 年 11 月 ~ 2018 年 4 月
 
-[瑞庭网络科技有限公司](https://www.anjuke.com/) iOS高级软件工程师 (中国 上海)
+[安居客](https://www.anjuke.com/) iOS高级软件工程师 (中国 上海)
 
 - 安居客经纪人iOS App开发迭代
 - 安居客集客家iOS App开发发布迭代
