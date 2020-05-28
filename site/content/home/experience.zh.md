@@ -18,7 +18,7 @@ weight = 60
 
 [方谷信息技术有限公司](https://18birdies.com/) iOS高级软件工程师 (中国 上海)
 
-- 18Birdies iOS 应用开发。
+- 使用Swift预言开发18Birdies iOS 应用，使用GIT与同事协同工作，使用Cocoapods管理第三方框架。
 - 球场预定功能模块设计开发。
 - 与API开发工程师合作整理分析第三方API的数据结构，以及如何将第三方数据结构与公司现有数据进行对接整合。
 - 开发日历控件，以及各式小控件以满足设计师的定制化需求。
@@ -29,7 +29,7 @@ weight = 60
 
 [安居客](https://www.anjuke.com/) iOS高级软件工程师 (中国 上海)
 
-- 安居客经纪人iOS App开发迭代。
+- 使用Objective-C语言开发安居客经纪人iOS App，使用GIT与同事协同工作，使用Cocoapods管理第三方框架。
 - 安居客集客家iOS App开发发布迭代。
 - 在集客家项目中，模仿Android的ListAdapter功能实现多样化的房源发布页面。
 - 安居客iOS App基于AFNetworking封装的的网络框架。

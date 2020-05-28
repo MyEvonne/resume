@@ -18,7 +18,7 @@ weight = 60
 
 [Square Valley](https://18birdies.com/), Senior iOS Software Engineer (Shanghai, China)
 
-- 18Birdies iOS application/framework development.
+- Use "Swift" to implement 18Birdies iOS application, use Git to collaborate with workmates, and use Cocoapods to manage third-party framework.
 - "Tee Time Booking" Module design and development.
 - Cooperate with API development engineers to analyze and organize the data structure of the third-party API, and integrate the third-party data structure with the company's existing data.
 - Develop “calendar bar” and various small widget to meet the designer's customization needs.
@@ -29,9 +29,9 @@ weight = 60
 
 [Anjuke .Inc](https://www.anjuke.com/), Senior iOS Software Engineer (Shanghai, China)
 
-- Development and iteration of Anjuke broker iOS App.
+- Use "Swift" to implement Anjuke broker iOS App, use Git to collaborate with workmates, and use Cocoapods to manage third-party framework.
 - Development, publishing and iteration of Jikejia iOS App.
-- Implement the various style of property publishing page with a "Adapter" like "ListAdapter" in Android In Jikejia project. 
+- Implement the various style of property publishing page with a "Adapter" like "ListAdapter" in Android In Jikejia project.
 - Encapsulate network framework based on AFNetworking for iOS team.
 - Using router component in Jikejia project, and introduce router to other project.
 - Fulfill modularization in iOS team.
