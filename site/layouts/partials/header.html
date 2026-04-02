@@ -10,8 +10,6 @@
   {{ with .Site.Params.name }}<meta name="author" content="{{ . }}">{{ end }}
   {{ with .Site.Params.role }}<meta name="description" content="{{ . }}">{{ end }}
 
-  {{/* Default to enabling highlighting, but allow the user to override it in .Params or .Site.Params.
-       Use $.Scratch to store "highlight_enabled", so that we can read it again in footer.html. */}}
   {{ $.Scratch.Set "highlight_enabled" true }}
   {{ if isset .Params "highlight" }}
     {{ $.Scratch.Set "highlight_enabled" .Params.highlight }}
@@ -23,16 +21,16 @@
     {{ with .Site.Params.highlight_style }}
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/{{ $v }}/styles/{{ . }}.min.css">
     {{ else }}
-    <link rel="stylesheet" href="{{ "/css/highlight.min.css" | relURL }}">
+    <link rel="stylesheet" href="{{ "css/highlight.min.css" | absURL }}">
     {{ end }}
   {{ end }}
-  <link rel="stylesheet" href="{{ "/css/bootstrap.min.css" | relURL }}">
-  <link rel="stylesheet" href="{{ "/css/font-awesome.min.css" | relURL }}">
-  <link rel="stylesheet" href="{{ "/css/academicons.min.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "css/bootstrap.min.css" | absURL }}">
+  <link rel="stylesheet" href="{{ "css/font-awesome.min.css" | absURL }}">
+  <link rel="stylesheet" href="{{ "css/academicons.min.css" | absURL }}">
   <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700|Merriweather|Roboto+Mono">
-  <link rel="stylesheet" href="{{ "/css/hugo-academic.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "css/hugo-academic.css" | absURL }}">
   {{ range .Site.Params.custom_css }}
-  <link rel="stylesheet" href="{{ "/css/" | relURL }}{{ . }}">
+  <link rel="stylesheet" href="{{ (printf "css/%s" .) | absURL }}">
   {{ end }}
 
   {{ with .OutputFormats.Get "RSS" }}
@@ -40,8 +38,8 @@
   <link rel="feed" href="{{ .Permalink }}" type="application/rss+xml" title="{{ $.Site.Title }}">
   {{ end }}
 
-  <link rel="icon" type="image/png" href="{{ "/img/icon.png" | relURL }}">
-  <link rel="apple-touch-icon" type="image/png" href="{{ "/img/apple-touch-icon.png" | relURL }}">
+  <link rel="icon" type="image/png" href="{{ "img/icon.png" | absURL }}">
+  <link rel="apple-touch-icon" type="image/png" href="{{ "img/apple-touch-icon.png" | absURL }}">
 
   <link rel="canonical" href="{{ .Permalink }}">
 
