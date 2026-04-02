@@ -1,5 +1,5 @@
 baseurl = ""
-copyright = "&copy; 2020 Richard Sheng"
+copyright = "&copy; 2026 Sheng Kainan"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -18,7 +18,7 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  organization = "Richard Sheng"
+  organization = "Sheng Kainan"
   organization_url = ""
   avatar = "portrait.jpg"
   email = "rnash@ymail.com"

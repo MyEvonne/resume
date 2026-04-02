@@ -1,7 +1,4 @@
 +++
-# An example of using the custom widget to create your own homepage section.
-# To create more sections, duplicate this file and edit the values below as desired.
-
 date = "2020-04-12T00:00:00"
 draft = false
 
@@ -14,37 +11,34 @@ weight = 60
 
 +++
 
-### Apr.2018 ~ Dec.2019
+### Apr. 2018 – Dec. 2019
 
 [Square Valley](https://18birdies.com/), Senior iOS Software Engineer (Shanghai, China)
 
-- Use "Swift" to implement 18Birdies iOS application, use Git to collaborate with workmates, and use Cocoapods to manage third-party framework.
-- "Tee Time Booking" Module design and development.
-- Cooperate with API development engineers to analyze and organize the data structure of the third-party API, and integrate the third-party data structure with the company's existing data.
-- Develop “calendar bar” and various small widget to meet the designer's customization needs.
-- Implement the feature(Modify Reservation) comes up from project manager without the function from third-party API.
-- In the following versions, add "Buy 9 Get 1 Free" service and coupon as discount in the booking process, without changing the existing code on a large scale.
+- Built the 18Birdies golf app in Swift, delivering tee-time booking, GPS rangefinder, and scorecard features to a global user base.
+- Designed and developed the **Tee Time Booking** module end-to-end, including calendar UI, custom widgets, and third-party API integration.
+- Bridged gaps between the third-party booking API and product requirements — implemented the **Modify Reservation** feature with no upstream API support through local state management.
+- Incrementally added "Buy 9 Get 1 Free" promotions and coupon discounts to the booking flow with minimal changes to the existing codebase.
 
-### Nov.2015 ~ Apr.2018
+### Nov. 2015 – Apr. 2018
 
-[Anjuke .Inc](https://www.anjuke.com/), Senior iOS Software Engineer (Shanghai, China)
+[Anjuke Inc.](https://www.anjuke.com/), Senior iOS Software Engineer (Shanghai, China)
 
-- Use "Swift" to implement Anjuke broker iOS App, use Git to collaborate with workmates, and use Cocoapods to manage third-party framework.
-- Development, publishing and iteration of Jikejia iOS App.
-- Implement the various style of property publishing page with a "Adapter" like "ListAdapter" in Android In Jikejia project.
-- Encapsulate network framework based on AFNetworking for iOS team.
-- Using router component in Jikejia project, and introduce router to other project.
-- Fulfill modularization in iOS team.
+- Maintained and iterated on the **Anjuke Broker** app (Objective-C), serving tens of thousands of real-estate agents across the 58/Anjuke/Ganji platform.
+- Led the development and release of the **Jikejia** iOS app for property management and multi-channel listing.
+- Designed a flexible **ListAdapter**-style architecture for Jikejia's property publishing pages, supporting diverse layouts with a single data-driven pattern.
+- Built a shared **networking layer** on top of AFNetworking, adopted across the iOS team to standardize API calls and error handling.
+- Implemented a **URL-based Router** in Jikejia and promoted it to other projects, enabling decoupled navigation and cross-module communication.
+- Drove **modularization** efforts within the iOS team, splitting monolithic code into reusable components.
 
-### June 2012 ~ Oct.2015
+### Jun. 2012 – Oct. 2015
 
 [KKTV](http://www.kktv5.com/), iOS Software Engineer (Hangzhou, China)
 
-- Participate development of KKTV iOS App As a startup employee.
+- Joined as an early-stage employee and contributed to the full lifecycle of the KKTV live-streaming iOS app — from initial feature development through iteration and App Store releases.
 
-### Jan.2010 ~ June 2012
+### Jan. 2010 – Jun. 2012
 
 [ArcSoft](https://www.arcsoft.com.cn/), QA Engineer (Hangzhou, China)
 
-- Responsible for image processing algorithm testing.
-- Designing test cases, executing tests, compiling test reports, and providing test results.
+- Conducted image-processing algorithm testing, authored test cases, executed test plans, and delivered detailed reports to the development team.

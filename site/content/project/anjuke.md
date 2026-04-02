@@ -3,7 +3,7 @@
 date = "2020-04-12"
 
 title = "Anjuke"
-summary = "A professional real estate application."
+summary = "China's leading real estate platform for buying, selling, and renting properties — serving millions of users nationwide."
 image_preview = "anjuke.png"
 tags = ["App"]
 

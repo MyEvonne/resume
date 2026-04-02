@@ -3,7 +3,7 @@
 date = "2020-04-12"
 
 title = "18Birdies"
-summary = "Join millions of golfers using 18Birdies to improve their game. Shoot lower scores with the help of our breakthrough game improvement tools. Track performance (and fun!) with a digital scorecard and exciting new side games and stats. Play in tournaments, get swing tips and share your love of golf with a diverse community of golfers worldwide."
+summary = "A top-rated golf app used by millions worldwide — featuring GPS rangefinder, digital scorecard, tee-time booking, tournament play, and a vibrant golfer community."
 image_preview = "18Birdies.png"
 tags = ["App"]
 

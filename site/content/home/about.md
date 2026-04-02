@@ -8,25 +8,20 @@ weight = 1
 
 [interests]
   interests = [
-    "Mobile Development",
-    "Swift and Objective-C Programming",
+    "iOS Architecture & Performance",
+    "Swift / Objective-C",
   ]
 
 [[education.courses]]
   course = "BSc in Network Engineering"
-  institution = "Zhajiang Industry and Merchant University, China"
+  institution = "Zhejiang Gongshang University, China"
   year = 2010
 
 +++
 
 # Summary
 
-Sheng is a professional developer who focuses on iOS now.  
-He has firm knowledge of Swift, Objective-C and network programming.  
-By combining his many years of practical experience with mobile design mode, through technical preview, to provide the optimal solution and design suggestions during the project planning stage.  
-Also actively participate in the design of back-end interfaces, cooperate with back-end engineers to design and define interfaces, and provide suggestions in mobile design perspective.  
-Proficiency in using of collaborative work tools such as GIT, to collaborate with teammates to efficiently complete the development work and self-test.  
-Firm knowledge about App Store submitting and publishing procedure.
-
-In his spare time, Sheng also loves sports, cooking, and traveling.  
-His is always open to new things, and constantly learning from them.
+iOS engineer with 7+ years of development experience, specializing in Swift and Objective-C.
+Skilled at translating product requirements into well-architected mobile solutions, from module design to App Store release.
+Experienced in collaborating with backend teams on API design, building reusable networking layers, and driving modularization across large codebases.
+Passionate about clean code, pragmatic problem-solving, and continuous learning.

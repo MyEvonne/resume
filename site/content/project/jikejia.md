@@ -3,7 +3,7 @@
 date = "2020-04-12"
 
 title = "Anjuke Jikejia"
-summary = "Jikejia is a estate management platform. It can publish estate information to major website ports."
+summary = "A property management app by 58/Anjuke/Ganji that enables agents to manage listings and publish to multiple platforms simultaneously."
 image_preview = "jikejia.png"
 tags = ["App"]
 
