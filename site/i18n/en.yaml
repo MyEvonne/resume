@@ -1,100 +1,54 @@
-# Navigation
-
-- id: toggle_navigation
-  translation: Toggle navigation
-
-# Buttons
-
-- id: btn_details
-  translation: Details
-
-- id: btn_pdf
-  translation: PDF
-
-- id: btn_slides
-  translation: Slides
-
-- id: btn_video
-  translation: Video
-
-- id: btn_code
-  translation: Code
-
-- id: btn_dataset
-  translation: Dataset
-
-- id: btn_project
-  translation: Project
-
-# About widget
-
-- id: interests
-  translation: Specialty
-
-- id: education
-  translation: Education
-
-# Publications widget
-
-- id: more_publications
-  translation: More Publications
-
-# Posts widget
-
-- id: continue_reading
-  translation: CONTINUE READING
-
-- id: more_posts
-  translation: More Posts
-
-# Talks widget
-
-- id: more_talks
-  translation: More Talks
-
-# Publication/Talk details
-
-- id: abstract
-  translation: Abstract
-
-- id: publication
-  translation: Publication
-
-- id: publication_type
-  translation: Type
-
-- id: date
-  translation: Date
-
-- id: links
-  translation: Links
-
-- id: event
-  translation: Event
-
-- id: location
-  translation: Location
-
-# Filtering
-
-- id: filter_by_type
-  translation: Filter by type
-
-- id: filter_all
-  translation: All
-
-# Project details
-
-- id: open_project_site
-  translation: Go to Project Site
-
-# Default node titles
-
-- id: posts
-  translation: Posts
-
-- id: publications
-  translation: Publications
-
-- id: talks
-  translation: Talks
+toggle_navigation:
+  other: "Toggle navigation"
+btn_details:
+  other: "Details"
+btn_pdf:
+  other: "PDF"
+btn_slides:
+  other: "Slides"
+btn_video:
+  other: "Video"
+btn_code:
+  other: "Code"
+btn_dataset:
+  other: "Dataset"
+btn_project:
+  other: "Project"
+interests:
+  other: "Specialty"
+education:
+  other: "Education"
+more_publications:
+  other: "More Publications"
+continue_reading:
+  other: "CONTINUE READING"
+more_posts:
+  other: "More Posts"
+more_talks:
+  other: "More Talks"
+abstract:
+  other: "Abstract"
+publication:
+  other: "Publication"
+publication_type:
+  other: "Type"
+date:
+  other: "Date"
+links:
+  other: "Links"
+event:
+  other: "Event"
+location:
+  other: "Location"
+filter_by_type:
+  other: "Filter by type"
+filter_all:
+  other: "All"
+open_project_site:
+  other: "Go to Project Site"
+posts:
+  other: "Posts"
+publications:
+  other: "Publications"
+talks:
+  other: "Talks"
