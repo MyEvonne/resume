@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://myevonne.github.io/resume/"
 copyright = "&copy; 2026 Sheng Kainan"
 theme = "academic"
 enableEmoji = true
