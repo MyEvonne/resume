@@ -11,6 +11,20 @@ weight = 60
 
 +++
 
+### Jan. 2021 – Present
+
+[Nike](https://www.nike.com.cn/) China, Senior iOS Software Engineer / Discover Squad Lead (Shanghai, China)
+*(Converted from contractor to full-time in Mar. 2022)*
+
+- Led the **Discover Squad** in the Nike App China team, owning **ShopHome**, **Discover**, **PDP** (Product Detail Page), and **Product Wall** — all core product browsing surfaces serving millions of users.
+- Grew with the mobile team from 5 (2 iOS + 2 Android + 1 EM) to a 14-person cross-platform organization with 3 squads, taking on the Discover Squad Lead role.
+- Broke down product requirements into sprint-deliverable JIRA tickets and ensured on-time delivery of all stories within each feature release.
+- Drove technical decision-making for major changes, conducted code reviews, and maintained code quality standards across the squad.
+- Coordinated with the **Global Discover team** on dependencies, roadmap alignment, and feature integration for the Greater China (GC) region.
+- Collaborated with PM and PMO to provide LOE estimates, plan project milestones, and design **gradual rollout strategies** using feature flags in coordination with the release manager.
+- Took over **Cart & Checkout** bug triage and fixes after the original owning team was reassigned.
+- Built features with **Swift** and **SwiftUI**.
+
 ### Apr. 2018 – Dec. 2019
 
 [Square Valley](https://18birdies.com/), Senior iOS Software Engineer (Shanghai, China)
