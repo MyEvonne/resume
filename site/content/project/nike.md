@@ -7,6 +7,6 @@ summary = "Nike's flagship mobile commerce app for the Greater China market — 
 image_preview = "Nike_App Store_1024.png"
 tags = ["App"]
 
-external_link = "https://apps.apple.com/cn/app/nike-shoes-apparel-stories/id1095459556"
+external_link = "https://apps.apple.com/cn/app/id1606462833"
 
 +++
