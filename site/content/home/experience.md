@@ -16,14 +16,13 @@ weight = 60
 [Nike](https://www.nike.com.cn/) China, Senior iOS Software Engineer / Discover Squad Lead (Shanghai, China)
 *(Converted from contractor to full-time in Mar. 2022)*
 
-- Led the **Discover Squad** in the Nike App China team, owning **ShopHome**, **Discover**, **PDP** (Product Detail Page), and **Product Wall** — all core product browsing surfaces serving millions of users.
-- Grew with the mobile team from 5 (2 iOS + 2 Android + 1 EM) to a 14-person cross-platform organization with 3 squads, taking on the Discover Squad Lead role.
-- Broke down product requirements into sprint-deliverable JIRA tickets and ensured on-time delivery of all stories within each feature release.
-- Drove technical decision-making for major changes, conducted code reviews, and maintained code quality standards across the squad.
-- Coordinated with the **Global Discover team** on dependencies, roadmap alignment, and feature integration for the Greater China (GC) region.
-- Collaborated with PM and PMO to provide LOE estimates, plan project milestones, and design **gradual rollout strategies** using feature flags in coordination with the release manager.
-- Took over **Cart & Checkout** bug triage and fixes after the original owning team was reassigned.
-- Built features with **Swift** and **SwiftUI**.
+- Grew with the mobile team from 5 to 14 engineers across iOS and Android; appointed **Discover Squad Lead**, owning ShopHome, Discover, PDP, and Product Wall — all core product browsing surfaces in the Nike App China.
+- Refined product requirements into sprint-sized tickets, provided LOE estimates, planned project milestones, and coordinated **feature-flag-based gradual rollouts** with PM, PMO, and Release Manager.
+- Coordinated with the **Global Discover team** on roadmap alignment, dependency management, and feature integration for the Greater China region.
+- Architected the **GC PDP Feature** — a half-year initiative to build a configurable, modular product detail page serving as the foundation for all GC product content.
+- Led the **Size Picker 6.0.0** refactoring, fully migrating from UIKit to SwiftUI and removing legacy dependencies.
+- Drove the **SNKRS China C4C (Core for China)** architecture migration, decoupling services into reusable capabilities and overhauling the StreamClient module.
+- Contributed **250+ PRs across 25+ repositories** over 5 years, spanning Nike App China, SNKRS China, and Mamba.
 
 ### Apr. 2018 – Dec. 2019
 

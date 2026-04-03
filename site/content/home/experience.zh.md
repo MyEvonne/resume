@@ -19,14 +19,13 @@ weight = 60
 [Nike](https://www.nike.com.cn/) 中国 iOS 高级软件工程师 / Discover Squad Lead（中国上海）
 *（2022 年 3 月由外包转为正式员工）*
 
-- 担任 Nike App 中国团队 **Discover Squad** 负责人，主导 **ShopHome**、**Discover**、**PDP**（商品详情页）及 **Product Wall** 等核心商品浏览页面的开发，服务数百万用户。
-- 伴随团队从 5 人（iOS 2 人 + Android 2 人 + 1 EM）成长至 14 人跨平台团队（3 个 Squad），被指派为 Discover Squad Lead。
-- 细化产品需求，将 JIRA ticket 拆分为可在单个 Sprint 内交付的粒度，确保每个功能的所有 ticket 按期交付。
-- 负责重大变更的技术方案决策、代码评审，保障 Squad 内代码质量。
-- 与 **Global Discover 团队**保持协作，对齐路线图、协调依赖关系，推进大中华区（GC）功能集成。
-- 与 PM、PMO 协作制定 LOE 估算、项目里程碑规划，并结合 **Feature Flag** 与 Release Manager 协调**灰度发布**策略。
-- 在原负责团队被调配后，接管 **Cart & Checkout** 相关 Bug 的排查与修复。
-- 使用 **Swift** 和 **SwiftUI** 进行功能开发。
+- 伴随团队从 5 人成长至 14 人跨平台团队，被指派为 **Discover Squad Lead**，负责 ShopHome、Discover、PDP 及 Product Wall 等 Nike App 中国核心商品浏览页面。
+- 细化产品需求为可交付的 Sprint 粒度，制定 LOE 估算与项目里程碑，结合 **Feature Flag** 与 PM、PMO、Release Manager 协调**灰度发布**策略。
+- 与 **Global Discover 团队**保持协作，对齐路线图、协调依赖关系，推进大中华区功能集成。
+- 主导 **GC PDP Feature** 开发——历时半年的大型项目，构建可配置、模块化的商品详情页，作为大中华区所有商品内容的基础架构。
+- 主导 **Size Picker 6.0.0** 大版本重构，从 UIKit 全面迁移至 SwiftUI，移除遗留依赖。
+- 推动 **SNKRS China C4C（Core for China）** 架构迁移，将多个 Service 解耦为可复用 Capability，重写 StreamClient 模块。
+- 5 年间在 **25+ 个仓库**中贡献 **250+ PR**，覆盖 Nike App China、SNKRS China 及 Mamba 三大产品线。
 
 ### 2018 年 4 月 – 2019 年 12 月
 
