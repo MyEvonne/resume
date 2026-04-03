@@ -2,3 +2,5 @@ node_modules/
 dist/
 *.log
 .DS_Store
+site/public/
+site/.hugo_build.lock
