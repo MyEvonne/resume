@@ -24,6 +24,10 @@ defaultContentLanguageInSubdir = false
   email = "rnash@ymail.com"
   telegram = ""
 
+  # Public, canonical URL of the deployed site — used by the Print Resume
+  # button so the printed CV always shows the real address (not localhost).
+  public_site_url = "https://myevonne.github.io/resume/"
+
   # Enable Keybase in Contact section by entering your keybase.io username.
   # keybase = ""
 
@@ -46,7 +50,7 @@ defaultContentLanguageInSubdir = false
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
   custom_css = ["main.css"]
-  custom_js  = []
+  custom_js  = ["print-resume.js"]
 
   # Publication types.
   #   Used to categorize publications.
@@ -128,15 +132,19 @@ defaultContentLanguageInSubdir = false
 [languages.en]
   languageCode = "en-us"
   title = "Resume - Sheng Kainan"
+
+[languages.en.params]
   name = "Sheng Kainan"
-  role = "iOS Developer"
+  role = "Senior iOS Engineer"
   address = "Shanghai, China"
   office_hours = "Please send an email for appointment"
 
 [languages.zh]
   languageCode = "zh"
   title = "简历 - 盛开南"
+
+[languages.zh.params]
   name = "盛 开南"
-  role = "iOS 开发者"
+  role = "iOS 高级工程师"
   address = "中国上海"
   office_hours = "预约会面请先邮件联系"

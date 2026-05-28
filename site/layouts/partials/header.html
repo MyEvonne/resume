@@ -9,6 +9,7 @@
   {{ hugo.Generator }}
   {{ with .Site.Params.name }}<meta name="author" content="{{ . }}">{{ end }}
   {{ with .Site.Params.role }}<meta name="description" content="{{ . }}">{{ end }}
+  {{ with .Site.Params.public_site_url }}<meta name="resume-public-url" content="{{ . }}">{{ end }}
 
   {{ $.Scratch.Set "highlight_enabled" true }}
   {{ if isset .Params "highlight" }}
