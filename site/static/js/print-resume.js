@@ -387,7 +387,7 @@
       '.resume-header .full-name { font-size: 26pt; margin: 0 0 4px; letter-spacing: 1px; color: #1f2933; }',
       '.resume-header .role { font-size: 13pt; color: #4b5563; }',
       '.portrait-img { width: 28mm; height: 36mm; object-fit: cover; border: 1px solid #d4d4d4; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); flex: 0 0 auto; -webkit-print-color-adjust: exact; print-color-adjust: exact; }',
-      'section { margin: 14px 0; page-break-inside: avoid; }',
+      'section { margin: 14px 0; }',
       'section h2 { font-size: 13pt; margin: 18px 0 8px; padding: 4px 8px; background: #eef2f7; border-left: 4px solid #1f2933; }',
       'table.personal { width: 100%; border-collapse: collapse; }',
       'table.personal th { text-align: left; width: 110px; font-weight: 600; color: #555; padding: 4px 8px; vertical-align: top; }',
@@ -414,7 +414,7 @@
       '  h1.resume-title { margin-top: 0; }',
       '  .portrait-img { -webkit-print-color-adjust: exact; print-color-adjust: exact; }',
       '  .job { break-inside: avoid; }',
-      '  section { break-inside: avoid; }',
+      '  section h2 { break-after: avoid; }',
       '}'
     ].join('\n');
   }

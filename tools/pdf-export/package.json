@@ -1,0 +1,14 @@
+{
+  "name": "resume-pdf-export",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Headless Chrome pipeline that exports the Hugo resume site to PDF (English + Chinese).",
+  "scripts": {
+    "build": "cd ../../site && hugo --minify",
+    "export": "node export-pdf.js",
+    "all": "npm run build && npm run export"
+  },
+  "dependencies": {
+    "puppeteer-core": "^25.3.0"
+  }
+}
