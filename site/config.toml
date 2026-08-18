@@ -1,4 +1,4 @@
-baseURL = "https://myevonne.github.io/resume/"
+baseURL = "https://resume.myevonne.top/"
 copyright = "&copy; 2026 Sheng Kainan"
 theme = "academic"
 enableEmoji = true
@@ -26,7 +26,7 @@ defaultContentLanguageInSubdir = false
 
   # Public, canonical URL of the deployed site — used by the Print Resume
   # button so the printed CV always shows the real address (not localhost).
-  public_site_url = "https://myevonne.github.io/resume/"
+  public_site_url = "https://resume.myevonne.top/"
 
   # Enable Keybase in Contact section by entering your keybase.io username.
   # keybase = ""
